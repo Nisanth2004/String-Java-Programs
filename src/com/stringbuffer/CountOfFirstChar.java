@@ -13,8 +13,7 @@ public class CountOfFirstChar
 
 		for (int i = 1; i <= string.length() - 1; i++) 
 		{
-			if (first == string.charAt(i))
-				;
+			if (first == string.charAt(i));
 			count++;
 		}
 
