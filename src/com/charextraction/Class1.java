@@ -6,7 +6,7 @@ public class Class1
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
-		String s = "perambalur";
+		String s = "kanisha";
 		char[] ch = s.toCharArray();
 
 		ch[0] = (char) (ch[0] - 32);

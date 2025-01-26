@@ -9,6 +9,8 @@ public class Class2
 		String s = "perambalur";// PeRaMbAlUr
 		char[] ch = s.toCharArray();
 
+		System.out.println(s.substring(0));
+
 		for (int i = 0; i < ch.length; i++) 
 		{
 			if (i % 2 == 0)

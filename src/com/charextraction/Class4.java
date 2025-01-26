@@ -6,7 +6,7 @@ public class Class4
 	public static void main(String[] args) 
 	{
 		// first non repeated character in string
-		String word = "indowi";
+		String word = "awindowi";
 
 		for (int i = 0; i < word.length(); i++) 
 		{
